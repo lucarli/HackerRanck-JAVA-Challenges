@@ -4,7 +4,7 @@ This repository is used to store the solution to the challenges proposed by the 
 
 ## Authors
 
-* Luciano Carli Moreira de Andrade - [lucarli](https://github.com/lucarli)
+* Luciano Andrade - [lucarli](https://github.com/lucarli)
 
 ## Acknowledgments
 
